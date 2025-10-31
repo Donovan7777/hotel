@@ -1,0 +1,7 @@
+# Ignore all Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VS Code folders
+.vscode/
